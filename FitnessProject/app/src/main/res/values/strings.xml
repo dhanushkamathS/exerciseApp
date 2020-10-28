@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FitnessProject</string>
+    <string name="the_main_page">EXERCISE</string>
+    <string name="start">start</string>
+    <string name="this_is_second_activity">exercise</string>
+    <string name="next">next</string>
+    <string name="timer">timer</string>
+    <string name="todo">TODO</string>
+    <string name="finalText">super \n \nYou have completed the workout \n\n How about another round </string>
+</resources>
